@@ -1,4 +1,3 @@
-import numpy as np 
-import pandas as pd
+from LogisticRegressionLib import *
 
-df = pd.read_csv('./train/train.csv')
+print(Phi0(1))
