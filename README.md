@@ -11,4 +11,4 @@ A LogisticRegression class has been created. Each instance of this class allows 
 
 ![cost function!](figures/cost_evolution.gif "cost function")
 
-With 100 iterations, accuray $\approx$ 95 %
+With 100 iterations, accuray $\approx$ 95 % on the training data
